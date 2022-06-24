@@ -1,0 +1,34 @@
+{
+  "global": {
+    "Azure": {
+      "300": {
+        "value": "#99d6ff",
+        "type": "color"
+      },
+      "500": {
+        "value": "#0099ff",
+        "type": "color"
+      },
+      "700": {
+        "value": "#005c99",
+        "type": "color",
+        "description": "Primary Color 100"
+      }
+    },
+    "Malachite": {
+      "300": {
+        "value": "#a4e9b8",
+        "type": "color"
+      },
+      "500": {
+        "value": "#1bc74e",
+        "type": "color"
+      },
+      "700": {
+        "value": "#1c760d",
+        "type": "color"
+      }
+    }
+  },
+  "$themes": []
+}
